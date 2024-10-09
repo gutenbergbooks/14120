@@ -1,4 +1,3 @@
-
 Attributed to Matthew Turner (d. 1788?) and William Hammon.
 
 Transcribed by the Freethought Archives
@@ -293,7 +292,7 @@ answering as if I denied the force of your observations. In that sense
 only I promise an answer. If I believe I shall say, I do; but I shall
 not believe and tremble, confident as I am, that if I act an honest
 part in life, whether there be a Deity and a future existence or not,
-whatever reason I may have to rejoice in case such ideas he realised, I
+whatever reason I may have to rejoice in case such ideas be realised, I
 can upon such an issue have none to tremble. I look upon myself to have
 more reason to be temporally afraid than eternally so. Dr. Priestley or
 any other Doctor can put his name boldly to a book in favour of Theism,
@@ -1075,13 +1074,13 @@ moral is an attribute to be given to him in the infinite degree as much
 as any other.
 
 It is said, infinite intelligence must have procured a necessary
-fitness of things, and that this forms morality. "His will could not be
-biassed by other influence; therefore he must have willed morality,
-because necessarily fit. Then comes infinite power, and yet no morality
-in the world or a very small portion of it. We cannot to any purpose,
-do what we will, argue against experience. That it must be, yet that it
-is not. What must be, will be. If it is not, there is no _must_ in the
-case.
+fitness of things, and that this forms morality. "His will could not
+be biassed by other influence; therefore he must have willed morality,
+because necessarily fit." Then comes infinite power, and yet no
+morality in the world or a very small portion of it. We cannot to any
+purpose, do what we will, argue against experience. That it must be,
+yet that it is not. What must be, will be. If it is not, there is no
+_must_ in the case.
 
 It is next said, that virtue gives a better chance for happiness than
 vice. This also is but a weak argument for the moral government of the
@@ -1140,7 +1139,7 @@ does not seem to be necessary that they should.
 
 The ubiquity of God is proved in this short way: "God made every thing,
 God controuls every thing. No power can act but where it is. Therefore
-God is present every where. The workman must certainly be present at
+God is present every where." The workman must certainly be present at
 his work, but when the work is done he may go about other business. If
 all the properties of matter, such as gravity, elasticity and other
 such existed only by the perpetual leave and agency of the Deity, it
@@ -1650,9 +1649,9 @@ blessings result from what we denominate evil. How despicable is so
 frivolous an answer! If we can find no good but in such things as
 affect us in a manner which is agreeable and pleasing to our actual
 existence, we shall be obliged to confess that those things which
-affect us, even but for a time, in, a painful manner, are as certainly
+affect us, even but for a time, in a painful manner, are as certainly
 evil to us. To vindicate God's visiting mankind with these evils some
-tell us, that he is just, and that they, are chastisements inflicted on
+tell us, that he is just, and that they are chastisements inflicted on
 mankind to punish the wrongs he has received from men. Thus a feeble
 mortal has the power to irritate and injure the almighty and eternal
 Being who created this world. To offend any one is, to afflict him,
@@ -1781,4 +1780,3 @@ THE END.
 
 End of the Project Gutenberg EBook of Answer to Dr. Priestley's Letters to a
 Philosophical Unbeliever, by Matthew Turner
-
